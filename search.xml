@@ -30,7 +30,13 @@
             
             <tag> 极大似然 </tag>
             
-            <tag> 限制极大似然 </tag>
+            <tag> 可估 </tag>
+            
+            <tag> 哑变量 </tag>
+            
+            <tag> Aitken模型 </tag>
+            
+            <tag> 奇异线性回归 </tag>
             
         </tags>
       
